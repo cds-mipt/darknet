@@ -1,0 +1,8 @@
+classes= 5
+train  = /home/k_andrei/darknet/data/Augmentated_NKBVS_selected_joined/train.txt
+valid  = /home/k_andrei/darknet/data/Augmentated_NKBVS_selected_joined/test.txt
+#valid = data/coco_val_5k.list
+names = /home/k_andrei/darknet/Augmentated_NKBVS_selected_joined/config/classes.names
+backup = /home/k_andrei/darknet/Augmentated_NKBVS_selected_joined/
+eval=coco
+
